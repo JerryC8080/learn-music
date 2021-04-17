@@ -1,0 +1,20 @@
+{
+  "name": "@jerryc/learn-music",
+  "version": "1.0.0",
+  "description": "📘 乐理学习笔记",
+  "main": "index.js",
+  "scripts": {
+    "publish": "git add . && git commit -m 'update auto' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JerryC8080/learn-music.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JerryC8080/learn-music/issues"
+  },
+  "homepage": "https://github.com/JerryC8080/learn-music#readme"
+}
